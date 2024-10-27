@@ -103,6 +103,10 @@
    <filename value="Pr_K_sol.png"/>
    <source value="C:\Users\Light\Downloads\География\Pr_K_sol.png"/>
   </resource>
+  <resource internal="false" id="671e25f5-4a3-168-f9d-55e" kind="image" local="true" forceExport="false" rawAssetsExport="false" name="Kamen2.png">
+   <filename value="Kamen2.png"/>
+   <source value="C:\Users\Light\Downloads\География\Kamen2.png"/>
+  </resource>
  </resources>
  <reactors>
   <order>
@@ -134,6 +138,7 @@
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children">
+    <item value="671e25d8-bea1-8616-dbef"/>
     <item value="671e1523-b76c-744e-ee66"/>
     <item value="671e1501-59e4-7b87-4e1a"/>
     <item value="671e12cd-ddd8-8d8d-84c4"/>
@@ -458,15 +463,15 @@
   </reactor>
   <reactor id="66f46a99-82c5-a54b-35df" name="Torf6" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -476,8 +481,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="0.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-6.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -490,15 +495,15 @@
   </reactor>
   <reactor id="670d3942-474c-1242-96b4" name="K_sol3" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -508,7 +513,7 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
+    <field name="x" value="0.000000%c"/>
     <field name="y" value="-71.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
@@ -522,15 +527,15 @@
   </reactor>
   <reactor id="670d3d4e-1345-2818-9396" name="Kam_sol3" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -540,8 +545,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="-71.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-136.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -555,15 +560,15 @@
   </reactor>
   <reactor id="670d3d81-2519-4682-9295" name="Glina4" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -573,8 +578,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="-71.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-396.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -588,15 +593,15 @@
   </reactor>
   <reactor id="670d3dae-a554-466d-9743" name="Neft5" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -606,8 +611,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="-71.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-461.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -621,15 +626,15 @@
   </reactor>
   <reactor id="671d3864-29db-8427-b61a" name="Mel5" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -639,8 +644,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="-71.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-526.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -654,15 +659,15 @@
   </reactor>
   <reactor id="671d3893-987c-9ded-e9c6" name="Peski4" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -672,8 +677,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="-71.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-591.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -686,15 +691,15 @@
   </reactor>
   <reactor id="671d38c8-f9b4-ff47-e5b9" name="Ruda2" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -704,8 +709,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="-142.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-201.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -718,15 +723,15 @@
   </reactor>
   <reactor id="671d3906-9c2b-845e-314e" name="Slancy2" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -736,8 +741,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="-214.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-266.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -751,15 +756,15 @@
   </reactor>
   <reactor id="671d3946-15df-ae64-1486" name="Ugol4" type="rect.image" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
    <parameter name="layer" value="0.01"/>
    <parameter name="rect.position" value="center-top"/>
    <parameter name="rect.size">
-    <field name="x" value="400.000000%"/>
-    <field name="y" value="80.000000%"/>
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
     <field name="policy" value="simple"/>
    </parameter>
    <parameter name="rect.color">
@@ -769,8 +774,8 @@
     <field name="alpha" value="0.75"/>
    </parameter>
    <parameter name="rect.shift">
-    <field name="x" value="13.000000%c"/>
-    <field name="y" value="70.000000%c"/>
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-331.000000%c"/>
    </parameter>
    <parameter name="rect.padding">
     <field name="top" value="0.000000px"/>
@@ -2028,7 +2033,7 @@
    <parameter name="layer" value="-0.02"/>
    <parameter name="rect.position" value="center-center"/>
    <parameter name="rect.size">
-    <field name="x" value="25.000000%c"/>
+    <field name="x" value="30.000000%c"/>
     <field name="y" value="keep-aspect"/>
     <field name="policy" value="simple"/>
    </parameter>
@@ -2082,7 +2087,7 @@
   </reactor>
   <reactor id="671e1245-a6ec-fda3-61c3" name="Model_K_sol1" type="node.model" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
@@ -2111,7 +2116,7 @@
   </reactor>
   <reactor id="671e12cd-ddd8-8d8d-84c4" name="Model_K_sol3" type="node.model" enabled="true">
    <parameter name="nodeMask">
-    <field name="mask" value="0x00000010"/>
+    <field name="mask" value="0x0000001F"/>
     <field name="unchangedBits" value="0x00000000"/>
    </parameter>
    <parameter name="children"/>
@@ -2233,6 +2238,38 @@
    </parameter>
    <parameter name="rect.scalePolicy" value="inherit"/>
    <parameter name="image.resourceId" value="671e14c6-4d5-32b-c19-964"/>
+  </reactor>
+  <reactor id="671e25d8-bea1-8616-dbef" name="Kamen2" type="rect.image" enabled="true">
+   <parameter name="nodeMask">
+    <field name="mask" value="0x0000001F"/>
+    <field name="unchangedBits" value="0x00000000"/>
+   </parameter>
+   <parameter name="children"/>
+   <parameter name="layer" value="0.01"/>
+   <parameter name="rect.position" value="center-top"/>
+   <parameter name="rect.size">
+    <field name="x" value="30.000000%"/>
+    <field name="y" value="7.000000%"/>
+    <field name="policy" value="simple"/>
+   </parameter>
+   <parameter name="rect.color">
+    <field name="red" value="0"/>
+    <field name="green" value="0"/>
+    <field name="blue" value="0"/>
+    <field name="alpha" value="0.75"/>
+   </parameter>
+   <parameter name="rect.shift">
+    <field name="x" value="0.000000%c"/>
+    <field name="y" value="-656.000000%c"/>
+   </parameter>
+   <parameter name="rect.padding">
+    <field name="top" value="0.000000px"/>
+    <field name="right" value="0.000000px"/>
+    <field name="bottom" value="keep-aspect"/>
+    <field name="left" value="keep-aspect"/>
+   </parameter>
+   <parameter name="rect.scalePolicy" value="inherit"/>
+   <parameter name="image.resourceId" value="671e25f5-4a3-168-f9d-55e"/>
   </reactor>
  </reactors>
  <exportParameters/>
