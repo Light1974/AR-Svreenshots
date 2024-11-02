@@ -2,7 +2,7 @@
 <chart owner="EV_Studio" version="1.0">
  <object type="Reactor">
   <property name="id" type="long">114527</property>
-  <property name="relative_position" type="realpoint">-790.000000,-67.000000</property>
+  <property name="relative_position" type="realpoint">-954.000000,46.000000</property>
   <property name="reactor" type="reactor_info">
    <reactor>671e00d7-9c51-c3d8-2535</reactor>
    <typename>scenario.chunk</typename>
@@ -129,7 +129,7 @@
  </object>
  <object type="Reactor">
   <property name="id" type="long">3451874</property>
-  <property name="relative_position" type="realpoint">296.000000,32.000000</property>
+  <property name="relative_position" type="realpoint">301.000000,35.000000</property>
   <property name="reactor" type="reactor_info">
    <reactor>670d3d4e-1345-2818-9396</reactor>
    <typename>rect.image</typename>
@@ -165,7 +165,7 @@
  </object>
  <object type="Reactor">
   <property name="id" type="long">4878366</property>
-  <property name="relative_position" type="realpoint">-118.000000,-54.000000</property>
+  <property name="relative_position" type="realpoint">-98.000000,-24.000000</property>
   <property name="reactor" type="reactor_info">
    <reactor>671e002a-acf2-3f72-a8e9</reactor>
    <typename>scenario.chunk</typename>
@@ -198,23 +198,6 @@
   </object>
  </object>
  <object type="Reactor">
-  <property name="id" type="long">5143430</property>
-  <property name="relative_position" type="realpoint">296.000000,-85.000000</property>
-  <property name="reactor" type="reactor_info">
-   <reactor>671e05e2-13b1-9fa4-89ad</reactor>
-   <typename>rect.image</typename>
-  </property>
-  <object type="Event">
-   <property name="id" type="long">2522516</property>
-   <property name="relative_position" type="realpoint">36.000000,44.000000</property>
-   <property name="event" type="event_info">
-    <reactor>671e05e2-13b1-9fa4-89ad</reactor>
-    <event>onClick</event>
-    <arguments/>
-   </property>
-  </object>
- </object>
- <object type="Reactor">
   <property name="id" type="long">5992386</property>
   <property name="relative_position" type="realpoint">-450.000000,225.000000</property>
   <property name="reactor" type="reactor_info">
@@ -230,23 +213,6 @@
     <arguments>
      <argument name="value" type="Number" value="0"/>
     </arguments>
-   </property>
-  </object>
- </object>
- <object type="Reactor">
-  <property name="id" type="long">6489685</property>
-  <property name="relative_position" type="realpoint">672.000000,-86.000000</property>
-  <property name="reactor" type="reactor_info">
-   <reactor>671e00d7-9c51-c3d8-2535</reactor>
-   <typename>scenario.chunk</typename>
-  </property>
-  <object type="Action">
-   <property name="id" type="long">7852335</property>
-   <property name="relative_position" type="realpoint">0.000000,44.000000</property>
-   <property name="action" type="action_info">
-    <reactor>671e00d7-9c51-c3d8-2535</reactor>
-    <action>activate</action>
-    <arguments/>
    </property>
   </object>
  </object>
@@ -308,74 +274,15 @@
   </object>
  </object>
  <object type="Reactor">
-  <property name="id" type="long">7384146</property>
-  <property name="relative_position" type="realpoint">96.000000,250.000000</property>
-  <property name="reactor" type="reactor_info">
-   <reactor>Scene</reactor>
-   <typename>node.scene</typename>
-  </property>
-  <object type="Action">
-   <property name="id" type="long">9982618</property>
-   <property name="relative_position" type="realpoint">0.000000,44.000000</property>
-   <property name="action" type="action_info">
-    <reactor>Scene</reactor>
-    <action>show</action>
-    <arguments>
-     <argument name="nodeMask" type="NodeMaskExt">
-      <field name="mask" value="0x0000000F"/>
-      <field name="unchangedBits" value="0x00000000"/>
-     </argument>
-    </arguments>
-   </property>
-  </object>
-  <object type="Action">
-   <property name="id" type="long">6349973</property>
-   <property name="relative_position" type="realpoint">0.000000,76.000000</property>
-   <property name="action" type="action_info">
-    <reactor>Scene</reactor>
-    <action>hide</action>
-    <arguments>
-     <argument name="nodeMask" type="NodeMaskExt">
-      <field name="mask" value="0x00000000"/>
-      <field name="unchangedBits" value="0x00000000"/>
-     </argument>
-    </arguments>
-   </property>
-  </object>
-  <object type="Action">
-   <property name="id" type="long">7187760</property>
-   <property name="relative_position" type="realpoint">0.000000,108.000000</property>
-   <property name="action" type="action_info">
-    <reactor>Scene</reactor>
-    <action>setNodeMask</action>
-    <arguments>
-     <argument name="nodeMask" type="NodeMaskExt">
-      <field name="mask" value="0x00000000"/>
-      <field name="unchangedBits" value="0x00000000"/>
-     </argument>
-    </arguments>
-   </property>
-  </object>
- </object>
- <object type="Reactor">
   <property name="id" type="long">7453565</property>
-  <property name="relative_position" type="realpoint">578.000000,247.000000</property>
+  <property name="relative_position" type="realpoint">-439.000000,610.000000</property>
   <property name="reactor" type="reactor_info">
    <reactor>671e00d7-9c51-c3d8-2535</reactor>
    <typename>scenario.chunk</typename>
   </property>
   <object type="Action">
-   <property name="id" type="long">2352057</property>
-   <property name="relative_position" type="realpoint">0.000000,44.000000</property>
-   <property name="action" type="action_info">
-    <reactor>671e00d7-9c51-c3d8-2535</reactor>
-    <action>activate</action>
-    <arguments/>
-   </property>
-  </object>
-  <object type="Action">
    <property name="id" type="long">8223809</property>
-   <property name="relative_position" type="realpoint">0.000000,76.000000</property>
+   <property name="relative_position" type="realpoint">0.000000,44.000000</property>
    <property name="action" type="action_info">
     <reactor>671e00d7-9c51-c3d8-2535</reactor>
     <action>deactivate</action>
@@ -385,7 +292,7 @@
  </object>
  <object type="Reactor">
   <property name="id" type="long">7561674</property>
-  <property name="relative_position" type="realpoint">-126.000000,-262.000000</property>
+  <property name="relative_position" type="realpoint">-121.000000,-239.000000</property>
   <property name="reactor" type="reactor_info">
    <reactor>671e087d-32b6-9edf-d5ef</reactor>
    <typename>scenario.chunk</typename>
@@ -537,20 +444,20 @@
   <property name="priority" type="long">0</property>
  </object>
  <object type="Connection">
-  <property name="id" type="long">7555267</property>
-  <property name="relative_position" type="realpoint">-826.000000,-426.000000</property>
-  <property name="source" type="long">2522516</property>
-  <property name="source_offset" type="realpoint">0.994764,0.482759</property>
-  <property name="target" type="long">7852335</property>
-  <property name="target_offset" type="realpoint">-0.032609,0.500000</property>
-  <property name="priority" type="long">0</property>
- </object>
- <object type="Connection">
   <property name="id" type="long">9075321</property>
   <property name="relative_position" type="realpoint">-826.000000,-426.000000</property>
   <property name="source" type="long">2357645</property>
   <property name="source_offset" type="realpoint">0.994949,0.482759</property>
   <property name="target" type="long">8298229</property>
+  <property name="target_offset" type="realpoint">-0.032609,0.500000</property>
+  <property name="priority" type="long">0</property>
+ </object>
+ <object type="Connection">
+  <property name="id" type="long">9208093</property>
+  <property name="relative_position" type="realpoint">-1072.000000,-519.000000</property>
+  <property name="source" type="long">425715</property>
+  <property name="source_offset" type="realpoint">0.995122,0.482759</property>
+  <property name="target" type="long">8223809</property>
   <property name="target_offset" type="realpoint">-0.032609,0.500000</property>
   <property name="priority" type="long">0</property>
  </object>
